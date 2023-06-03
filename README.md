@@ -1,4 +1,4 @@
-# Predictive-Maintainance
+# Predictive-Maintenance
 
 
 Dataset contains information about harddrive  performance and its failure.
